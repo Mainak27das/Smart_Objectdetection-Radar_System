@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visual Radar Project</title>
-</head>
+
 <body>
     <h1>Visual Radar Project</h1>
     <h2>Overview</h2>
@@ -12,9 +6,9 @@
         This project demonstrates a visual radar system using Arduino and Processing. The radar system measures the distance of objects within a certain range and visualizes the data on a computer screen using a radar-like display. The system utilizes an ultrasonic sensor connected to an Arduino to detect distances, which are then sent to a computer via serial communication. The Processing application reads these values and displays a real-time radar view.
     </p>
     
-    <h2>Components</h2>
-    <ul>
-        <li>Arduino UNO</li>
+    Components
+    
+        Arduino UNO
         <li>Ultrasonic Sensor (HC-SR04)</li>
         <li>Servo Motor</li>
         <li>Buzzer</li>
