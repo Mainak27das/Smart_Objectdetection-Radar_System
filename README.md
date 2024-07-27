@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visual Radar Project</title>
-</head>
+
 <body>
     <h1>Visual Radar Project</h1>
     <h2>Overview</h2>
